@@ -47,4 +47,10 @@ If CoC shows your private server it means it works, if not it either means:
 - Your settings are not correct
 - Or your private server isn't on
 
+# 2020/07/03
+
+Modified for answer only to the list of domain contained inside dns.config
+Add maven build
+Code cleanup
+
 #THE END
